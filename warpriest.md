@@ -37,7 +37,9 @@ Currently your character is a worshipper of Shizuru, who offers the Sun, Law, Go
 For 7[^2] rounds per day, you can make your kanata do cool things. First, and less impressively, you can change it to do 1d8 of damage. This doesn't do anything *right now* but at level 10 it will change to 1d10, and only get better from there[^3].
 > Well, if my katana *doesn't* do extra damage, what's the point of Sacred Weapon for now?
 
-It does give you a +1 enhancement bonus to your katana, which applies to attack rolls *and* damage rolls, and also means you don't need to go find a +1 katana, more or less. Also, at level 8 it will become a +2, and you can adjust that to get more interesting properties- you could either have a +2 to damage and to hit, or you could have a +1 *and* have your katana do 1d6 extra electric damage on a hit. Basically, you have 7 rounds where you can really eke out more.
+It does give you a +1 enhancement bonus to your katana, which applies to attack rolls *and* damage rolls, and also means you don't need to go find a +1 katana, more or less (**EDIT**: On second read, this does stack with your items. So if you have a +1 katana, it'd be a plus 2, or see the next section.).
+
+ Also, at level 8 it will become a +2, and you can adjust that to get more interesting properties- you could either have a +2 to damage and to hit, or you could have a +1 *and* have your katana do 1d6 extra electric damage on a hit. Basically, you have 7 rounds where you can really eke out more.
 
 ## Skills
 You get 2 + INT mod skill points per level. You get a +3 to any skills that we ticked off with an X, which I think is already accounted for; it doesn't look like you receive any special skills from your Deity.
